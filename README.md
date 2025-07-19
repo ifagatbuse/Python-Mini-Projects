@@ -1,11 +1,7 @@
-# PDF Merger
+# Python Mini Projects
 
-This Python project merges multiple PDF files into a single PDF.
+In this repository, you can find various small Python applications.  
+Each file focuses on a different topic or concept in Python programming.
 
-## Requirements
-- PyPDF2
 
-## Usage
-```bash
-pip install PyPDF2
-python project80-pdf\ combiner.py
+
